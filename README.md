@@ -1,2 +1,2 @@
 # AluraFlix-
-Catálogo de filmes.
+Bem vindo ao maior catálogo de filmes.
